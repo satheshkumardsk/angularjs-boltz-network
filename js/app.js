@@ -1,0 +1,1 @@
+var boltzapp = angular.module("boltz-network", []);
